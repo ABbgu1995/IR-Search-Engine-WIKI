@@ -37,10 +37,4 @@ The project utilizes the following libraries:
 - **NumPy**: A library for scientific computing with Python that provides support for large, multi-dimensional arrays and matrices.
 - **NLTK**: An indispensable toolkit for natural language processing, equipped with various utilities tailored for text data manipulation and analysis.
 
-## Creators
 
-This project was created by:
-
-- **Amit Avraham**
-- **Oded Atias**
-- **Barak Haziz**
